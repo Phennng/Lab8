@@ -1,6 +1,5 @@
 
 
-import { BrowserRouter } from "react-router-dom";
 import { ConfigureStore } from "./redux/configureStore";
 import { Provider } from "react-redux";
 
