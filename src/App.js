@@ -1,6 +1,5 @@
 
 
-import { ConfigureStore } from "./redux/configureStore";
 import { Provider } from "react-redux";
 
 const store = ConfigureStore();
