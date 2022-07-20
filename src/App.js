@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 
 const store = ConfigureStore();
 class App extends Component {
