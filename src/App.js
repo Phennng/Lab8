@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./App.css";
-import Main from "./components/MainComponent";
 
 const store = ConfigureStore();
 class App extends Component {
